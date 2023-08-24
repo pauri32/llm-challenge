@@ -1,12 +1,3 @@
----
-title: LLM Challenge
-emoji: 💬
-colorFrom: red
-colorTo: yellow
-sdk: docker
-pinned: true
----
-
 # Technical challenge
 Author: Pau Rodriguez Inserte (@pauri32)
 
